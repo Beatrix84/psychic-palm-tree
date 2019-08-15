@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html  lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="Lord of the ring game: find the precious">
+        <title>FindThePrecious</title>
+    </head>
+
+    <body>
+      <header>
+        FindThePrecious.com 
+        <nav>
+          
+          <a href="#fellows">Fellows</a>
+          <a href="#ring">The ring</a>
+          <a href="#reward">Get my reward</a>
+          <a href="#hunters">Best hunters</a>
+          <a href="#army">Join the Army</a>
+          <a href="#contact">Contact us</a>
+
+        </nav>
+        
+        <h1>Dangerous fellowship try to destroy the ring</h1>
+        <h2>Orcs, Goblins, Balrogs, protect your master Sauron!</h2>
+        <img src="https://via.placeholder.com/140" alt="ring the precious">
+      </header>
+      
+      <section>
+        <h2 id="fellows">Fellows wanted dead or alive if you want to eat them later</h2>
+        <form>
+          <input type="submit" value="Most wanted"> 
+          <input type="submit" value="Most dangerous">
+          <input type="submit" value="Already captured">
+        </form>
+        <h3>The Wizard</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+        <img src="https://via.placeholder.com/80" alt="wizard">           
+        <form>
+          <input type="submit" value="Reward 1000 gold coins"> 
+        </form>
+        
+        <h3>Hobbit3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+        <img src="https://via.placeholder.com/80" alt="hobbit">           
+        
+        <h3>Yoummy Dwarf</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+        <img src="https://via.placeholder.com/80" alt="character">           
+        <form>
+          <input type="submit" value="Reward 250 gold coins"> 
+        </form>
+        
+      </section>
+      
+      <section>
+        <h2 id="reward">I have captured one of them, how to get my reward ?</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.  </p>
+         <img src="https://via.placeholder.com/140" alt="reward">           
+        <form>
+          <input type="submit" value="Contact us"> 
+        </form>
+        
+      </section>
+      
+      <section>
+        <h2 id="hunters">Best hunters</h2>
+        <img src="https://via.placeholder.com/70" alt="man"> 
+        <h4>ElvesKiller22</h4>
+        2 captures - <a href="profile">Profile</a>
+        <input type="submit" value="Like 68K"><br>
+        
+        <img src="https://via.placeholder.com/70" alt="man"> 
+        <h4>Goblin45</h4>
+        1 captures - <a href="profile">Profile</a>
+        <input type="submit" value="Like 68K"><br>
+        
+      </section>
+      
+      <section>
+        <h2 id="ring">About the ring</h2>
+        
+          <h3>Ring Capabilities</h3>
+          <h4>What can our master Sauron do with the ring?</h4>
+          <table>
+            <thead>
+              <tr>
+              <th>Feature</th>
+              <th>Description</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+               <td>Main</td>
+               <td>One ring to rules them all</td>
+              </tr>
+              <tr>
+               <td>Invisibility</td>
+               <td>You can't see me</td>
+                
+              </tr>
+              <tr>
+                <td>Power</td>
+                <td>Destroy the world</td>
+              </tr>
+            </tbody>
+          </table>
+         <h3>Why the ring is awesome?</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
+        <img src="https://via.placeholder.com/110" alt="ring"> 
+        
+      </section>
+      <section>
+        <h2 id="army">Join Mordor Army, we need you!</h2>
+        <img src="https://via.placeholder.com/140" alt="wanted"> 
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.</p>
+        <input type="submit" value="More info on SauronRulesThemAll.com"><br>
+        
+      </section>
+      <section>
+        <h2 id="contact">Contact us</h2>
+        <form>
+          <input type="text" name="email" value="@"><br>
+          <input type="text" name="adsress" value="Address"><br>
+          <select>
+    <option value="select">I have seen one of them</option>
+          </select><br>
+          <textarea>Your message</textarea>
+        </form>
+        
+      </section>
+      <footer>
+        <nav>
+        
+          <a href="about" target="_blank">About us</a>
+          <a href="fell" target="_blank">Fellows</a>
+          <a href="join" target="_blank">Join our army</a>
+          <a href="faq" target="_blank">FAQ</a>
+          <a href="conditions" target="_blank">Reward conditions</a>
+          <a href="mentions" target="_blank">Legal mentions</a>
+          <a href="sauron" target="_blank">Twitter</a>
+    
+        </nav>
+       
+      </footer>
+    
+    </body>
+</html>
